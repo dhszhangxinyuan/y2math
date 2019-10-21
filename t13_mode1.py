@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 # Find mode of n numbers
 
 import statistics
